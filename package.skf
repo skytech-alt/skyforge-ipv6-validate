@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-ipv6-validate"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Упрощённая валидация IPv6-адресов."
+    репозиторий = "github.com/skytech-alt/skyforge-ipv6-validate"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
